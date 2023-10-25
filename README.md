@@ -13,21 +13,24 @@ The following works and systems have been explored to enhance road safety in Ind
 
 1. **Phantom Junction**: Addressing traffic congestion and mitigating phantom traffic jams. [PhantomJunction](DOCUMENTATION/PhantomJunction.mp4)
 
-2. **V2X (Vehicle-to-Everything) Communication**: Enabling vehicles to communicate with each other and with infrastructure for improved safety and traffic flow.
-3. **Driver Behavior Analysis with V2X**: Analyzing and improving driver behavior through V2X communication.
-4. **V2I (Vehicle-to-Infrastructure) Communication**: Enhancing vehicle communication with roadside infrastructure for safer driving.
-5. **CADAS (Cooperative Advanced Driver Assistance Systems)**: Implementing advanced driver assistance systems that leverage cooperation between vehicles and infrastructure.
-6. **Cooperative Left Turn Assistance (CLTA) Systems**: Exploring technologies that assist in safe left turns at intersections.
-7. **Perception and Localization by Fusing Camera, LIDAR, and RADAR**: Enhancing perception and localization through sensor fusion.
-8. **Planning and Control with Reinforcement Learning**: Leveraging reinforcement learning for autonomous vehicle planning and control.
-9. **C-ADAS (Cooperative Advanced Driver Assistance Systems)**: Expanding the capabilities of ADAS through cooperation.
-10. **Obstacle Avoidance Mechanism**: Implementing mechanisms to avoid obstacles on the road.
-11. **Object Detection and Tracking**: Utilizing computer vision to detect and track objects in front of vehicles.
-12. **Lane Detection**: Developing efficient methods for detecting and maintaining awareness of lane boundaries.
-13. **Smoke Detection**: Employing vision-based systems to detect smoke or other hazards.
-14. **Vehicle Density and Dynamic Traffic Control**: Managing traffic density dynamically to improve road safety.
-15. **Dynamic Traffic Control System**: Optimising Signal Timings
-16. **Automatic Traffic Control System for Emergency Response Vehicles** : Prioritizing emergency vehicles for rapid response.
+2. **V2X (Vehicle-to-Everything) Communication**: Enabling vehicles to communicate with each other and with infrastructure for improved safety and traffic flow. [V2VandV2I](DOCUMENTATION/V2VandV2I.mp4)
+3. **Driver Behavior Analysis with V2X**: Analyzing and improving driver behavior through V2X communication. 
+4. **Prompts to Maintain a Safe Distance Between Vehicles**: ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/e30a97af-591e-4d4b-850a-47f9d309cc3e)
+
+5. **CADAS (Cooperative Advanced Driver Assistance Systems)**: Implementing advanced driver assistance systems that leverage cooperation between vehicles and infrastructure. [CADAS2](DOCUMENTATION/CADAS2.mp4)
+6. **Cooperative Left Turn Assistance (CLTA) Systems**: Exploring technologies that assist in safe left turns at intersections. [CADAS1](DOCUMENTATION/CADAS1.mp4)
+7. **Perception and Localization by Fusing Camera, LIDAR, and RADAR**: Enhancing perception and localization through sensor fusion. [Perception_Localisation1](DOCUMENTATION/Perception_Localisation1.mp4)
+[Perception_Localisation2](DOCUMENTATION/Perception_Localisation2.mp4)
+8. **Planning and Control with Reinforcement Learning**: Leveraging reinforcement learning for autonomous vehicle planning and control. ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/aedc9be2-dac1-4eed-988a-7d9426ed93d9)
+
+9. **Obstacle Avoidance Mechanism**: Implementing mechanisms to avoid obstacles on the road. ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/a0a2c192-2359-4ffe-a80b-28c2c6254eba)
+
+11. **Object Detection and Tracking**: Utilizing computer vision to detect and track objects in front of vehicles. [ObjectTracking_SensorFusion_LiDAR](DOCUMENTATION/ObjectTracking_SensorFusion_LiDAR.png)
+12. **Lane Detection**: Developing efficient methods for detecting and maintaining awareness of lane boundaries. [LaneDetection](DOCUMENTATION/LaneDetection.png)
+13. **Smoke Detection**: Employing vision-based systems to detect smoke or other hazards. [SmokeDetection](DOCUMENTATION/SmokeDetection.png) [SmokeDetectionModel](DOCUMENTATION/SmokeDetectionModel.png)
+14. **Vehicle Density and Dynamic Traffic Control**: Managing traffic density dynamically to improve road safety. [VehicleDensity](DOCUMENTATION/VehicleDensity.mp4)
+15. **Dynamic Traffic Control System**: Optimising Signal Timings [VehicleDensity](DOCUMENTATION/VehicleDensity.mp4)
+16. **Automatic Traffic Control System for Emergency Response Vehicles** : Prioritizing emergency vehicles for rapid response. [EmergencyResponse](DOCUMENTATION/EmergencyResponse.mp4)
 
 ## Methodology
 The methodology adopted for enhancing road safety through AI-based solutions involves various techniques, including:

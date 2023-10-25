@@ -21,7 +21,8 @@ The following works and systems have been explored to enhance road safety in Ind
 6. **Cooperative Left Turn Assistance (CLTA) Systems**: Exploring technologies that assist in safe left turns at intersections. [CADAS1](DOCUMENTATION/CADAS1.mp4)
 7. **Perception and Localization by Fusing Camera, LIDAR, and RADAR**: Enhancing perception and localization through sensor fusion. [Perception_Localisation1](DOCUMENTATION/Perception_Localisation1.mp4)
 [Perception_Localisation2](DOCUMENTATION/Perception_Localisation2.mp4)
-8. **Planning and Control with Reinforcement Learning**: Leveraging reinforcement learning for autonomous vehicle planning and control. ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/aedc9be2-dac1-4eed-988a-7d9426ed93d9)
+8. **Planning and Control with Reinforcement Learning**: Leveraging reinforcement learning for autonomous vehicle planning and control. ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/edd0147a-e9a4-45b3-aba7-35867574bd90)
+
 
 9. **Obstacle Avoidance Mechanism**: Implementing mechanisms to avoid obstacles on the road. ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/a0a2c192-2359-4ffe-a80b-28c2c6254eba)
 

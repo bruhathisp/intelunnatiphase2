@@ -35,10 +35,12 @@ The following works and systems have been explored to enhance road safety in Ind
 ## Methodology
 The methodology adopted for enhancing road safety through AI-based solutions involves various techniques, including:
 
-- **Object Detection and Tracking**: Identifying and tracking objects in the vicinity of the vehicle.
-- **Lane Detection**: Detecting lane boundaries and maintaining lane awareness.
-- **Smoke Detection**: Utilizing vision-based systems to detect smoke or hazardous conditions.
-- **Vehicle Density and Dynamic Traffic Control**: Managing traffic density in real time to reduce congestion and enhance safety.
-- **Automatic Traffic Control for Emergency Response Vehicles**: Implementing systems to prioritize emergency vehicles.
+- **Object Detection and Tracking**: Identifying and tracking objects in the vicinity of the vehicle. [3dBoundingBox](DOCUMENTATION/3dBoundingBox.mp4) [ObjectTracking_SensorFusion_LiDAR](DOCUMENTATION/ObjectTracking_SensorFusion_LiDAR.png)
+- **Lane Detection**: Detecting lane boundaries and maintaining lane awareness. [LaneDetection](DOCUMENTATION/LaneDetection.png)
+- **Smoke Detection**: Utilizing vision-based systems to detect smoke or hazardous conditions. [SmokeDetectionModel](DOCUMENTATION/SmokeDetectionModel.png)[SmokeDetection](DOCUMENTATION/SmokeDetection.png)
+
+- **Vehicle Density and Dynamic Traffic Control**: Managing traffic density in real time to reduce congestion and enhance safety. [VehicleDensity](DOCUMENTATION/VehicleDensity.mp4)
+- **Automatic Traffic Control for Emergency Response Vehicles**: Implementing systems to prioritize emergency vehicles. [EmergencyResponse](DOCUMENTATION/EmergencyResponse.mp4)
+  
 
 These methodologies are being explored and developed to create intelligent transportation systems that significantly contribute to road safety and traffic management in India.

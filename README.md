@@ -43,7 +43,8 @@ The methodology adopted for enhancing road safety through AI-based solutions inv
 - **Vehicle Density and Dynamic Traffic Control**: Managing traffic density in real time to reduce congestion and enhance safety. [VehicleDensity](DOCUMENTATION/VehicleDensity.mp4)
 - **Automatic Traffic Control for Emergency Response Vehicles**: Implementing systems to prioritize emergency vehicles. [EmergencyResponse](DOCUMENTATION/EmergencyResponse.mp4)
 - ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/c2c95804-184b-4604-8968-dc9549331901)
-- Educational Awareness based on Spatial Distribution of the Alerts ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/a259ac82-36f9-4f61-acab-95bbebf409bd)
+- Educational Awareness based on Spatial Distribution of the Alerts ![image](https://github.com/bruhathisp/intelunnatiphase2/assets/91585301/572709e6-5ce3-4107-9ed9-590a28821994)
+
 
 
 

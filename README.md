@@ -11,7 +11,8 @@ Intelligent Transportation Systems (ITS) play a crucial role in enhancing road s
 ## Works Covered
 The following works and systems have been explored to enhance road safety in India:
 
-1. **Phantom Junction**: Addressing traffic congestion and mitigating phantom traffic jams. 
+1. **Phantom Junction**: Addressing traffic congestion and mitigating phantom traffic jams. [PhantomJunction](DOCUMENTATION/PhantomJunction.mp4)
+
 2. **V2X (Vehicle-to-Everything) Communication**: Enabling vehicles to communicate with each other and with infrastructure for improved safety and traffic flow.
 3. **Driver Behavior Analysis with V2X**: Analyzing and improving driver behavior through V2X communication.
 4. **V2I (Vehicle-to-Infrastructure) Communication**: Enhancing vehicle communication with roadside infrastructure for safer driving.
@@ -25,7 +26,7 @@ The following works and systems have been explored to enhance road safety in Ind
 12. **Lane Detection**: Developing efficient methods for detecting and maintaining awareness of lane boundaries.
 13. **Smoke Detection**: Employing vision-based systems to detect smoke or other hazards.
 14. **Vehicle Density and Dynamic Traffic Control**: Managing traffic density dynamically to improve road safety.
-15. **Dynamic Traffic Control System **: Optimising Signal Timings
+15. **Dynamic Traffic Control System**: Optimising Signal Timings
 16. **Automatic Traffic Control System for Emergency Response Vehicles** : Prioritizing emergency vehicles for rapid response.
 
 ## Methodology
